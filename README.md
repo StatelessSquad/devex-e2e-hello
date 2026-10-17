@@ -1,11 +1,11 @@
-# {{APP_NAME}}
+# devex-e2e-hello
 
-{{ONE_LINE_DESCRIPTION}}
+Hello service used to verify the DevEx GitHub identity end to end.
 
 > Created from `StatelessSquad/app-template` by DevEx. Replace the `{{...}}` placeholders in your bootstrap PR.
 
 ## Stack
-- {{STACK}}
+- Python 3.12 (FastAPI)
 
 ## Getting started
 ```bash
